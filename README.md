@@ -14,7 +14,7 @@ This repository contains a collection of R scripts demonstrating advanced hypoth
 * **Context:** Assessing the variance in pesticide poisoning incidents across different animal groups in Scotland.
 * **Key Statistical Methods:** One-way ANOVA, Residual Diagnostics, Square-root transformation, and visualising Tukey HSD confidence intervals.
 #### 1.3. Environmental Ecology: Carbon Sequestration Indicators
-* **Context**: Establishing environmental baselines by evaluating leaf litter depth—a critical proxy for nutrient cycling, forest health, and carbon storage—across distinct altitudinal zones (alpine vs. subalpine).
+* **Context**: Establishing environmental baselines by evaluating leaf litter depth. A critical proxy for nutrient cycling, forest health, and carbon storage across distinct altitudinal zones (alpine vs. subalpine).
 * **Key Statistical Methods**: One-Way ANOVA, rigorous residual diagnostics (homoscedasticity checks), variance stabilization via comparative Square-root and Logarithmic data transformations, and Tukey HSD post-hoc analysis.
 #### 1.4. Environmental Monitoring: Avian Biodiversity
 * **Context:** Evaluating the variance in avian biomass across distinct coastal habitats and species groups.
